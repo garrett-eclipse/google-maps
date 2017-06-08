@@ -263,9 +263,9 @@ If you think, that you found a bug in our [WordPress Google Maps](https://huge-i
 == Changelog ==
 
 = 2.2.6 =
-* 1) ADD: Added advanced view for store locator ith detailed description.
+* 1) ADD: Added advanced view for store locator with detailed description.
 * 2) FIX: UX/UI issue fixes as well as functionality optimization.
-* 3) EDIT: Approved the licensing page with the whole list of pugin functionality.
+* 3) EDIT: Approved the licensing page with the whole list of plugin functionality.
 
 = 2.2.5 =
 * 1) We have added a new option of maps full screen.
